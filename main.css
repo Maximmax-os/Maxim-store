@@ -1,0 +1,28 @@
+* {
+    color: white;
+    font-family: 'Russo One', sans-serif;
+    text-decoration: none;
+}
+
+body {
+    background-image: url(img/Wallpaper.jpg);
+    width: 100vw;
+    height: 98vh;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    margin: 0px;
+}
+
+#desktop {
+    margin-left: 16px;
+    margin-top: 16px;
+}
+
+#app {
+    text-shadow: 1px 1px 4px black;
+    text-align: center;
+}
+
+
